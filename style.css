@@ -1,0 +1,38 @@
+body{
+    background: pink;
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.big_image img{
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    z-index: 10;
+}
+
+.x{
+    position: absolute
+    top: 2vh;
+    right: 2vw;
+    color: red;
+    z-index: 1000;
+}
+
+
+.image-2{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+/*    display: none;*/
+}
+
+
+
+
+
